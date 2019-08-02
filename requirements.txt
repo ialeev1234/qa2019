@@ -1,0 +1,8 @@
+pytest
+psycopg2
+pytz
+pyvirtualdisplay
+selenium
+sshtunnel
+requests
+jsonschema
